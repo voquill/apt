@@ -5,17 +5,17 @@ APT package repository for [Voquill](https://voquill.com) desktop app.
 ## Quick Install
 
 ```bash
-curl -fsSL https://voquill.github.io/voquill-desktop-apt/install.sh | bash
+curl -fsSL https://voquill.github.io/apt/install.sh | bash
 ```
 
 ## Manual Setup
 
 ```bash
 # Add GPG key
-curl -fsSL https://voquill.github.io/voquill-desktop-apt/gpg-key.asc | sudo gpg --dearmor -o /usr/share/keyrings/voquill.gpg
+curl -fsSL https://voquill.github.io/apt/gpg-key.asc | sudo gpg --dearmor -o /usr/share/keyrings/voquill.gpg
 
 # Add repository
-echo "deb [signed-by=/usr/share/keyrings/voquill.gpg arch=amd64] https://voquill.github.io/voquill-desktop-apt stable main" \
+echo "deb [signed-by=/usr/share/keyrings/voquill.gpg arch=amd64] https://voquill.github.io/apt stable main" \
   | sudo tee /etc/apt/sources.list.d/voquill.list
 
 # Install

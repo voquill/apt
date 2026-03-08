@@ -1,9 +1,20 @@
 #!/bin/bash
 set -euo pipefail
 
-REPO_URL="https://voquill.github.io/voquill-desktop-apt"
+REPO_URL="https://voquill.github.io/apt"
 KEYRING_PATH="/usr/share/keyrings/voquill.gpg"
 LIST_PATH="/etc/apt/sources.list.d/voquill.list"
+CHANNEL="stable"
+PACKAGE="voquill-desktop"
+
+for arg in "$@"; do
+  case "$arg" in
+    --dev)
+      CHANNEL="dev"
+      PACKAGE="voquill-desktop-dev"
+      ;;
+  esac
+done
 
 if ! command -v apt-get &>/dev/null; then
   echo "Error: apt-get not found. This script supports Debian/Ubuntu-based systems only."
@@ -11,18 +22,14 @@ if ! command -v apt-get &>/dev/null; then
   exit 1
 fi
 
-echo "Adding Voquill APT repository..."
+echo "Adding Voquill APT repository (${CHANNEL} channel)..."
 
-# Add GPG key
 curl -fsSL "${REPO_URL}/gpg-key.asc" | sudo gpg --dearmor -o "${KEYRING_PATH}"
 
-# Add repository
-echo "deb [signed-by=${KEYRING_PATH} arch=amd64] ${REPO_URL} stable main" \
+echo "deb [signed-by=${KEYRING_PATH} arch=amd64] ${REPO_URL} ${CHANNEL} main" \
   | sudo tee "${LIST_PATH}" > /dev/null
 
-# Install
 sudo apt-get update
-sudo apt-get install -y voquill-desktop
+sudo apt-get install -y "${PACKAGE}"
 
 echo "Voquill has been installed successfully!"
-echo "Run 'voquill' to get started."
