@@ -1,0 +1,7 @@
+Origin: Voquill
+Label: Voquill
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Voquill Desktop packages
+SignWith: 23EA7AAA619C28AF2B007C7F4933D58ACF0878DB
