@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-REPO_URL="https://voquill.github.io/voquill-apt"
+REPO_URL="https://voquill.github.io/voquill-desktop-apt"
 KEYRING_PATH="/usr/share/keyrings/voquill.gpg"
 LIST_PATH="/etc/apt/sources.list.d/voquill.list"
 
