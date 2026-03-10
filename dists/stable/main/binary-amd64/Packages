@@ -1,0 +1,18 @@
+Package: voquill-desktop
+Version: 0.0.483
+Architecture: amd64
+Installed-Size: 86129
+Maintainer: you
+Depends: libxdo3, libvulkan1, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Conflicts: voquill-gpu
+Replaces: voquill-gpu
+Priority: optional
+Section: utils
+Filename: pool/main/v/voquill-desktop/voquill-desktop_0.0.483_amd64.deb
+Size: 21887706
+SHA256: 2774205987761c036e0a23406b61b7633c601800108716893f7e638a5ceacd4f
+SHA1: 1d15b7f413bf9efd25b8408c3e17d2f30788d082
+MD5sum: 55043cf06e10e12b07ef2780052d9b05
+Description: AI voice dictation
+ (none)
+

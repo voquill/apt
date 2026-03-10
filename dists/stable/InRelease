@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Voquill
+Label: Voquill
+Codename: stable
+Date: Tue, 10 Mar 2026 19:42:48 UTC
+Architectures: amd64
+Components: main
+Description: Voquill - stable releases
+MD5Sum:
+ 8202357875e6bd55e1bf49e243fbf2b2 558 main/binary-amd64/Packages
+ e930aba16dd72d2603d92e264a022a73 397 main/binary-amd64/Packages.gz
+ 076eaf66615d9196c354d730e49e0de1 106 main/binary-amd64/Release
+SHA1:
+ aba84c3bae1e860eac98b2c4bcac6463f27853db 558 main/binary-amd64/Packages
+ 151d19ba95bda6b40abbc60238fb2f055774800e 397 main/binary-amd64/Packages.gz
+ 09a914209746d206f327e2cf63d3a4027c286710 106 main/binary-amd64/Release
+SHA256:
+ 7e5a3ec25c61cac9bb6461b8854a5869791335a6ab97ad3d2fc535e17f40a683 558 main/binary-amd64/Packages
+ 373b37fa16c97b8b627825271815129e89e4bb7590ef032867ea633b43dea924 397 main/binary-amd64/Packages.gz
+ c6d563e5f8775bf988fabd009bbf6af396af4b3aeeeeb53e5bf354b872b5d343 106 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEI+p6qmGcKK8rAHx/STPVis8IeNsFAmmwdDgACgkQSTPVis8I
+eNsS/A/+PUp4G7N9NwydV8ZeF04PBXcELhQb1EAf/JzZgFIB2e4T7CjFtyaq8myP
+/5Ws1e8S0ITgKL+Zy29M2Q3bGOERhjgWp02Dx7adVeHD7CYCe6czFBWvCTuaY5qd
+0y4ukhONLawr+91uF/yWr+N9dHASFvUXTxb+l+zK5b6eF2iZME/59V2jLuv7cPYB
+f1BnCeGoz55js/wDWZ8cTHKGsstR7o1Y7CEhUhG2bU88gu5Dsr8UKOfnRowJ3TBz
+mFDi1J4jiYXx59FgYokcmTfFRM+A1OQc1I0DxulUbmeXYoi0Er4meXGNykLX8xtx
+7FXxtXY7RIBirB+G5zJ4pUD0QZx9hPqiCI5GuibHAuFPP4RPGjF7V35LEBqFj3yJ
+eloseNT53l5n+G9Du+GhRcewBeHoc8rF3QMIVEwSq+W0Z2/plyle2W6nd/0YemvU
+i8fr3vOKCfBA9m+cFNq/TxmLZUo1Pm+yFjqD4cDGRnVSLgQQO2ey8QOL4RzsB3Uv
+AELEJ4HJFSnIotz+yHht0Rf9NR+2xcN7TE13lz4d92pttbQelZfXozuKeoq5PSBe
+rljbN82tJShpS79JVV9wVduw67bzbRaaorZaK0+0igPCBJkowOwxAFMSiHqNaKqR
+0BG4QgkQ16KlYQ5fnOqwGTomlq26/5vKhZy6PfDFnV0iB7w6Ha0=
+=qbQh
+-----END PGP SIGNATURE-----
