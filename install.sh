@@ -24,7 +24,7 @@ fi
 
 echo "Adding Voquill APT repository (${CHANNEL} channel)..."
 
-curl -fsSL "${REPO_URL}/gpg-key.asc" | sudo gpg --dearmor -o "${KEYRING_PATH}"
+curl -fsSL "${REPO_URL}/gpg-key.asc" | sudo gpg --batch --yes --dearmor -o "${KEYRING_PATH}"
 
 echo "deb [signed-by=${KEYRING_PATH} arch=amd64] ${REPO_URL} ${CHANNEL} main" \
   | sudo tee "${LIST_PATH}" > /dev/null
