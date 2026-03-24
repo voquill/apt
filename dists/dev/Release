@@ -1,19 +1,19 @@
 Origin: Voquill
 Label: Voquill
 Codename: dev
-Date: Mon, 23 Mar 2026 23:26:04 UTC
+Date: Tue, 24 Mar 2026 00:11:25 UTC
 Architectures: amd64
 Components: main
 Description: Voquill - development releases
 MD5Sum:
- 4ccdf8bb483e0910ff45d414638f82bb 557 main/binary-amd64/Packages
- 805faa8904f55a74b94edbb8a87a0110 391 main/binary-amd64/Packages.gz
+ 6618af422f46b3c81a0c87346584b445 615 main/binary-amd64/Packages
+ 9dd063dea5d351b5c30d2011fa95a356 424 main/binary-amd64/Packages.gz
  76b62085422d682fed864dcf73f93540 111 main/binary-amd64/Release
 SHA1:
- 597fd8b326f1b69735846e4f4666413b4b39fa76 557 main/binary-amd64/Packages
- ed3e9531f9ee0341efef1b79a067adddb3f735c9 391 main/binary-amd64/Packages.gz
+ d343d1ed945e49c5d630906ad57f71b456df927e 615 main/binary-amd64/Packages
+ b588b9a02d4005b2d4cd9f01cefc2fed4d55ee5e 424 main/binary-amd64/Packages.gz
  bd8d781ff61d47b291f7700eb008f48f26565ded 111 main/binary-amd64/Release
 SHA256:
- 7cb8dd153b1cdbe412c9e71aa80a1977d20cadfb6e191802719e2862ad6a39a4 557 main/binary-amd64/Packages
- 4463555be68268b6e9818a110cf54ad16b74433a86d97fdcee11b5f8c916b9c5 391 main/binary-amd64/Packages.gz
+ 30d6e0716683335a6654891bcf0f2fa98495908f27ca734ea6533cb43b712de4 615 main/binary-amd64/Packages
+ b185e80317966bc29f238ba71af21d32a29c05a44eb52dc1b0ce077d04623752 424 main/binary-amd64/Packages.gz
  e4cf8fe8f06e9dbffe7597fd89c3fc3e23b05765bd2c497250719a958f960092 111 main/binary-amd64/Release
