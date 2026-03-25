@@ -1,5 +1,5 @@
 Package: voquill-desktop-dev
-Version: 0.0.522
+Version: 0.0.523
 Architecture: amd64
 Installed-Size: 88493
 Maintainer: you
@@ -8,11 +8,11 @@ Conflicts: voquill-gpu-dev
 Replaces: voquill-gpu-dev
 Priority: optional
 Section: utils
-Filename: pool/main/v/voquill-desktop-dev/voquill-desktop-dev_0.0.522_amd64.deb
-Size: 22640134
-SHA256: f25cbc5d43eea169722365d91caa2fffad5acedfe4ff75425aeb0fe87c28540e
-SHA1: f7a76bac4653897a78aff2676444587198677a37
-MD5sum: f834a38c5324f81ec382ffa53000d960
+Filename: pool/main/v/voquill-desktop-dev/voquill-desktop-dev_0.0.523_amd64.deb
+Size: 22639498
+SHA256: 8b0d2a243379f294d33fce85f704e25f422e011ea481284a8408ed92160a7fb8
+SHA1: 1e836e849621e0c2deeed29ba369a13689965e37
+MD5sum: 56c3c51b170dbcf4923f62325d09f9fe
 Description: AI voice dictation
  (none)
 
