@@ -11,8 +11,10 @@ curl -fsSL https://voquill.github.io/apt/install.sh | bash
 ## Manual Setup
 
 ```bash
-# Add GPG key
-curl -fsSL https://voquill.github.io/apt/gpg-key.asc | sudo gpg --dearmor -o /usr/share/keyrings/voquill.gpg
+# Download and install GPG signing key
+sudo mkdir -p /usr/share/keyrings /etc/apt/trusted.gpg.d
+curl -fsSL https://voquill.github.io/apt/gpg-key.asc | sudo gpg --batch --yes --dearmor -o /usr/share/keyrings/voquill.gpg
+sudo cp /usr/share/keyrings/voquill.gpg /etc/apt/trusted.gpg.d/voquill.gpg
 
 # Add repository
 echo "deb [signed-by=/usr/share/keyrings/voquill.gpg arch=amd64] https://voquill.github.io/apt stable main" \
