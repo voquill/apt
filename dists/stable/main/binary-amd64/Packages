@@ -1,5 +1,5 @@
 Package: voquill-desktop
-Version: 0.0.580
+Version: 0.0.582
 Architecture: amd64
 Installed-Size: 90532
 Maintainer: you
@@ -8,11 +8,11 @@ Conflicts: voquill-gpu
 Replaces: voquill-gpu
 Priority: optional
 Section: utils
-Filename: pool/main/v/voquill-desktop/voquill-desktop_0.0.580_amd64.deb
-Size: 23071324
-SHA256: 8495136e00fe54d3e87b385aa9f54f8cfac2f063e0b578dd4ee584e47505b774
-SHA1: b1e4336972192a00734e88708bfebc5e74232a1b
-MD5sum: 5ea44442c9d735a059e2e557d7c2ceb1
+Filename: pool/main/v/voquill-desktop/voquill-desktop_0.0.582_amd64.deb
+Size: 23068586
+SHA256: 7764a5738dc7b3cb50e09d189f4b223e876f72c5d075b2302745403f5533414a
+SHA1: d67cf219bd7b585bf040ecd684685defd6979e11
+MD5sum: 66413a4883b607b032c78f380ffba5a9
 Description: AI voice dictation
  (none)
 
