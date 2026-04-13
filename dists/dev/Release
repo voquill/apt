@@ -1,28 +1,28 @@
 Origin: Voquill
 Label: Voquill
 Codename: dev
-Date: Mon, 13 Apr 2026 18:37:37 UTC
+Date: Mon, 13 Apr 2026 19:11:42 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Voquill - development releases
 MD5Sum:
- 948425e8f2ded90492dd72eca65d2a56 1129 main/binary-amd64/Packages
- a16aa1274e1f88cb5d3055d757a34d4c 643 main/binary-amd64/Packages.gz
+ 2293633bbac119a2799695138e0bca2a 1129 main/binary-amd64/Packages
+ 572abbefd4a0895740fe2d780e69be8d 642 main/binary-amd64/Packages.gz
  76b62085422d682fed864dcf73f93540 111 main/binary-amd64/Release
- c088298e14a7771eed3533f8234f1ded 514 main/binary-arm64/Packages
- 5a3e2db1101a1f95664ceb9178a1654a 380 main/binary-arm64/Packages.gz
+ 07f372bbcb5ec47011909f041929bf0a 514 main/binary-arm64/Packages
+ 892c947edd6983972a96311f80659e1f 379 main/binary-arm64/Packages.gz
  346d387e61c77e4bf1504793a006e407 111 main/binary-arm64/Release
 SHA1:
- ea46f8c1b2f0615d6ea3ed7f5fe5f1cdcc546bf7 1129 main/binary-amd64/Packages
- e815e84d6170115c10fcaf4cc68e0e4d13e6fbc0 643 main/binary-amd64/Packages.gz
+ 6c40474c4ce3a64851d5e27c467a3c6fc5f54a08 1129 main/binary-amd64/Packages
+ a2fc8c791435ec8e4cb4390b994020e7c21fbceb 642 main/binary-amd64/Packages.gz
  bd8d781ff61d47b291f7700eb008f48f26565ded 111 main/binary-amd64/Release
- d19016ad4d87a4589aeec063dcf48b60bc300087 514 main/binary-arm64/Packages
- 21aae87841ac466b405093a8eb206860116a9a91 380 main/binary-arm64/Packages.gz
+ b20055f71e3fef0cf4b10784f5c113dbc4f104ed 514 main/binary-arm64/Packages
+ aa9dc2369221185db0ef348b2303cd55c602bdc3 379 main/binary-arm64/Packages.gz
  6396caacd9fdc4bc9502d59254b332775d79acac 111 main/binary-arm64/Release
 SHA256:
- bda5847377159d41158e0650a8fb388f103b4288ba435194d55fb777ec4d58e7 1129 main/binary-amd64/Packages
- 2e9b03b960d4c84c800a1a5db3162e802f01a805f71e5a2889dcbe111581503b 643 main/binary-amd64/Packages.gz
+ aad6881f262eb486ecce33d174b070e327280b7f146ee7c563c18b7f671fad76 1129 main/binary-amd64/Packages
+ 15c15f1e3b71735c05884d08adc99685dea3aa7044f57fd7ae6be9c0391d3034 642 main/binary-amd64/Packages.gz
  e4cf8fe8f06e9dbffe7597fd89c3fc3e23b05765bd2c497250719a958f960092 111 main/binary-amd64/Release
- d315e49c2628438a83d23ea552355f6277eee8483c521ad4e671940670250848 514 main/binary-arm64/Packages
- 38f875244899c8aabd2160d556d37158edd153487357f4978451b50c2d26338c 380 main/binary-arm64/Packages.gz
+ 2825dfa03140aeac5fb7a4eaa62026eb637e257545dbaf7d26b2ff9991fe4590 514 main/binary-arm64/Packages
+ 66f719c94d0fadc3715f2d1831583f86d3ba4c034d845dc5cf345cb6b642446a 379 main/binary-arm64/Packages.gz
  75d001524c6ebca26410a58880172dc89e1ee8cac5ee470847c47752e09c6f72 111 main/binary-arm64/Release
