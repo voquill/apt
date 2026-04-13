@@ -17,19 +17,19 @@ Description: AI voice dictation
  (none)
 
 Package: voquill-dev
-Version: 0.0.7
+Version: 0.0.8
 License: MIT
 Vendor: none
 Architecture: amd64
 Maintainer: Voquill <hello@voquill.com>
-Installed-Size: 6411
+Installed-Size: 6417
 Homepage: https://voquill.com
 Priority: optional
 Section: default
-Filename: pool/main/v/voquill-dev/voquill-dev_0.0.7_amd64.deb
-Size: 2551976
-SHA256: 406b151a3b11e90c1c804c2ce14d092f64b3cb75531d38eaee9cb8d8f0e94b30
-SHA1: c11f68cebc9df841ba3d7c4daaf1efdf04d6d947
-MD5sum: d021f5733a2c05c16812cd706f4ee0d0
+Filename: pool/main/v/voquill-dev/voquill-dev_0.0.8_amd64.deb
+Size: 2554732
+SHA256: 940132d324e2b6f7c616fcc269bedbfe142023cf59f95d1dc5d94b4910b04724
+SHA1: 73e51af345437faa21a05cc4cdbffee48e16978e
+MD5sum: 05862937918941a4429d6eab0a6fec91
 Description: Voquill CLI (dev build, targets dev Firebase backend)
 
