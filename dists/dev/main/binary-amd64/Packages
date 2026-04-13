@@ -1,18 +1,18 @@
 Package: voquill-desktop-dev
-Version: 0.0.588
+Version: 0.0.589
 Architecture: amd64
-Installed-Size: 93579
+Installed-Size: 93878
 Maintainer: you
 Depends: libxdo3, xdotool, libvulkan1, libgtk-layer-shell0, wtype, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
 Conflicts: voquill-gpu-dev
 Replaces: voquill-gpu-dev
 Priority: optional
 Section: utils
-Filename: pool/main/v/voquill-desktop-dev/voquill-desktop-dev_0.0.588_amd64.deb
-Size: 26156426
-SHA256: 7b5198fa3f96b5ea1f9b3b284f31142eceede8af67a82c483c2588c9e42bae29
-SHA1: 226c5f4766f01c41612f5c2209ab0515e5a73000
-MD5sum: b12429b42ef6ca8683582303bb16c481
+Filename: pool/main/v/voquill-desktop-dev/voquill-desktop-dev_0.0.589_amd64.deb
+Size: 26218608
+SHA256: 6eabc7fb479978adaa447041d5d3c3c563b6165666afb1e68580fb7c076d47db
+SHA1: 5829c5d268d7eccad965bd0cdba7596dbbde269e
+MD5sum: 664cbd237a77375818458fb5b4466cb2
 Description: AI voice dictation
  (none)
 
