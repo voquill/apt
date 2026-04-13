@@ -1,18 +1,18 @@
 Package: voquill
-Version: 0.0.7
+Version: 0.0.8
 License: MIT
 Vendor: none
 Architecture: amd64
 Maintainer: Voquill <hello@voquill.com>
-Installed-Size: 6411
+Installed-Size: 6417
 Homepage: https://voquill.com
 Priority: optional
 Section: default
-Filename: pool/main/v/voquill/voquill_0.0.7_amd64.deb
-Size: 2552010
-SHA256: 7dd2b6be9cf26e5106743ba832cff0e2b34d6d60fe15f2b0606b27a8171b2a04
-SHA1: 19e243c17d1076ab94c907c5f71f500831067b33
-MD5sum: e93358919b9b0e89a104f9e86aa6d38e
+Filename: pool/main/v/voquill/voquill_0.0.8_amd64.deb
+Size: 2554582
+SHA256: 240c1806d32d4209a5d8ee9a5f6ce8174669dc2945a0448af285ca7f468de114
+SHA1: f2ebeae9d2ce70f7d831034a0e41da5ca9d6da48
+MD5sum: a81f0ef6b75f344428d8717a80425f1f
 Description: Voquill CLI
 
 Package: voquill-desktop
