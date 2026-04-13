@@ -1,17 +1,17 @@
 Package: voquill-dev
-Version: 0.0.6
+Version: 0.0.7
 License: MIT
 Vendor: none
 Architecture: arm64
 Maintainer: Voquill <hello@voquill.com>
-Installed-Size: 6179
+Installed-Size: 6175
 Homepage: https://voquill.com
 Priority: optional
 Section: default
-Filename: pool/main/v/voquill-dev/voquill-dev_0.0.6_arm64.deb
-Size: 2511102
-SHA256: a6ace212fd8bbf39ac0b70d801ab849f39d396115a99dd855463fcffa56c8eab
-SHA1: c84927ad90fb0a28369559f41afc38fae94154af
-MD5sum: 55d3925425e2e65432cbdd4319e14345
+Filename: pool/main/v/voquill-dev/voquill-dev_0.0.7_arm64.deb
+Size: 2511214
+SHA256: 013910fb416ebdc0188a3f3028f6b1e2d8adfe9ef94baaa26678ad09b6f337e4
+SHA1: f03f52b39157f80cdea407adce64f2e925118805
+MD5sum: 7e1179e42aa470d8f1599dcdd26dc13b
 Description: Voquill CLI (dev build, targets dev Firebase backend)
 
