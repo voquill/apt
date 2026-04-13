@@ -16,3 +16,20 @@ MD5sum: 9a653d33ff8685ec1522881669fd40fd
 Description: AI voice dictation
  (none)
 
+Package: voquill-dev
+Version: 0.0.5
+License: MIT
+Vendor: none
+Architecture: amd64
+Maintainer: Voquill <hello@voquill.com>
+Installed-Size: 6008
+Homepage: https://voquill.com
+Priority: optional
+Section: default
+Filename: pool/main/v/voquill-dev/voquill-dev_0.0.5_amd64.deb
+Size: 2398950
+SHA256: 25b641f5b9b07b2a2db941b2c1a36789c09a8732131e5aa9d28af053ce429c9d
+SHA1: 73f5d74bfc7fc598a4e119ec7b9cffdc0315d647
+MD5sum: 044be1857ebe7421425145b0698cd40c
+Description: Voquill CLI (dev build, targets dev Firebase backend)
+
