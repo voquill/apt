@@ -1,27 +1,27 @@
 Origin: Voquill
 Label: Voquill
 Codename: stable
-Date: Fri, 22 May 2026 14:52:37 UTC
+Date: Mon, 13 Jul 2026 18:31:08 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Voquill - stable releases
 MD5Sum:
- f94dc772f7ada6285df9fd2e2b674230 1055 main/binary-amd64/Packages
- 3486f63201bc9cd39ac832309506ad98 613 main/binary-amd64/Packages.gz
+ 5e220a2e9088ceb516e5f0f98e81eb54 1056 main/binary-amd64/Packages
+ 527fa9e48c99665d04820bfcdfa74587 614 main/binary-amd64/Packages.gz
  076eaf66615d9196c354d730e49e0de1 106 main/binary-amd64/Release
  0eceeaf7459bfa26c535b1dc50e68c0d 460 main/binary-arm64/Packages
  c9add224bf477001a13f26ee7ab4fa29 343 main/binary-arm64/Packages.gz
  24ce2523f4d9f71508482290d8ccfac5 106 main/binary-arm64/Release
 SHA1:
- b53b8a0bf7aee12b6bcd38c1cf8c59d74c2409e3 1055 main/binary-amd64/Packages
- b8b15ec1a282367a1ce357d6100f573ac81a56cb 613 main/binary-amd64/Packages.gz
+ beb37546932053296379652ea967c149fafc26e9 1056 main/binary-amd64/Packages
+ 7d32046ab6735a691c3631af65df68726fc9bc76 614 main/binary-amd64/Packages.gz
  09a914209746d206f327e2cf63d3a4027c286710 106 main/binary-amd64/Release
  4f9254e92fb84ef475bd08da4b83608a1be358e1 460 main/binary-arm64/Packages
  675ef9716d4f16f69ce21f7b14d6f070e02c0e6d 343 main/binary-arm64/Packages.gz
  b773b5ac79291fde8b300baadf301fe938d661de 106 main/binary-arm64/Release
 SHA256:
- 67310fb934d7af63c05706fb774a135062ec2823b0179d1dd232d83adcb89856 1055 main/binary-amd64/Packages
- 10263c91c533dc074873d9bb3b5b890f9822cb111be47b5b6e83f9005bcf3292 613 main/binary-amd64/Packages.gz
+ fbcbe4aa1aee6aefb609bac90302a53754bfb35ad7b39cb1d07aa2a3d8c2d0f2 1056 main/binary-amd64/Packages
+ 0025b6b173096e51e155af3d1461d255262355374e7fe611c2e4639355f2a03f 614 main/binary-amd64/Packages.gz
  c6d563e5f8775bf988fabd009bbf6af396af4b3aeeeeb53e5bf354b872b5d343 106 main/binary-amd64/Release
  e61cc1b3ee8cddd8f9f7ed2342695ea7b5872aa0875e08f8c9e6846a9b3839b2 460 main/binary-arm64/Packages
  104137e44ab192dc6d9e110335edcca9b7f613477e248c19a3076ace1adeddda 343 main/binary-arm64/Packages.gz
