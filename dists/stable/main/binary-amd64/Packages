@@ -16,20 +16,20 @@ MD5sum: a81f0ef6b75f344428d8717a80425f1f
 Description: Voquill CLI
 
 Package: voquill-desktop
-Version: 0.0.651
+Version: 0.0.652
 Architecture: amd64
-Installed-Size: 100707
+Installed-Size: 100639
 Maintainer: you
 Depends: libxdo3, xdotool, libvulkan1, libgtk-layer-shell0, wtype, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
 Conflicts: voquill-gpu
 Replaces: voquill-gpu
 Priority: optional
 Section: utils
-Filename: pool/main/v/voquill-desktop/voquill-desktop_0.0.651_amd64.deb
-Size: 26074728
-SHA256: 30298de22daabc41cd3d66824974f6ab3c489c4716eb7bc4d33eea8095577e2f
-SHA1: 16b920e0fbf09e3b7451801ba9009cc7c1fee2e7
-MD5sum: a29b6d14ec00d2eb99ffa9a2002b2bb9
+Filename: pool/main/v/voquill-desktop/voquill-desktop_0.0.652_amd64.deb
+Size: 25945018
+SHA256: 20353a530ec8615f970d73ad76601b65b0a2382505dcccab75cf9daafbc1e414
+SHA1: 4b3c2b5f7089f11ce8d4e9a59180432f07933920
+MD5sum: 6c4c77b1903e0dbbc969d8bc698ddda3
 Description: AI voice dictation
  (none)
 
