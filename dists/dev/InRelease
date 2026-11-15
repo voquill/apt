@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: Voquill
 Label: Voquill
 Codename: dev
-Date: Sat, 26 Sep 2026 17:21:16 UTC
+Date: Sun, 15 Nov 2026 02:49:26 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Voquill - development releases
 MD5Sum:
- 42b61c4c9dbb1e1979a0f518367fb310 1130 main/binary-amd64/Packages
- bd547155deab88f080a5765d727a2af9 646 main/binary-amd64/Packages.gz
+ 85207ab745b321402331c20de70e5ffd 1130 main/binary-amd64/Packages
+ 68a4fe64d20d857b4551ffd2fc84d750 643 main/binary-amd64/Packages.gz
  76b62085422d682fed864dcf73f93540 111 main/binary-amd64/Release
  83030d4f9f9fcb4ce5bf84a9e72a2188 514 main/binary-arm64/Packages
  9767341f893234dd383ec341428e9cc3 381 main/binary-arm64/Packages.gz
  346d387e61c77e4bf1504793a006e407 111 main/binary-arm64/Release
 SHA1:
- c422ec26ca20b6902c7f3c2d108b679c90d95747 1130 main/binary-amd64/Packages
- 127b15bb10e966a2b1a83d1851606860df436a2d 646 main/binary-amd64/Packages.gz
+ 52f3f4459fb69c19e8f3061bbefe169a1565218d 1130 main/binary-amd64/Packages
+ 0022a21aa2ad6adc1f06ff3e92ebcedeb1748132 643 main/binary-amd64/Packages.gz
  bd8d781ff61d47b291f7700eb008f48f26565ded 111 main/binary-amd64/Release
  6e15d6cd55b20f225d59784b177e653dd716ea0d 514 main/binary-arm64/Packages
  3460852e97c9e2a1fcaf3ba75e50ca3dcb5e3526 381 main/binary-arm64/Packages.gz
  6396caacd9fdc4bc9502d59254b332775d79acac 111 main/binary-arm64/Release
 SHA256:
- f7d6df47ae83d278897b7d3b8a5e8a1c266dce1173b5de7f2ab121264403d132 1130 main/binary-amd64/Packages
- c983e28e3e1a1ebe0f5101756417a814aaab5e24ff097018a2ee9bdd257ee875 646 main/binary-amd64/Packages.gz
+ d2dc8e0ba757dcd22e1ed04e8141e3fa206cd7a69a0ef1deef2b7a3399187baf 1130 main/binary-amd64/Packages
+ 8bf2919169acea0d8192c2a9a46ba97a4eca195bf740b50e7e617e9e0dbdb227 643 main/binary-amd64/Packages.gz
  e4cf8fe8f06e9dbffe7597fd89c3fc3e23b05765bd2c497250719a958f960092 111 main/binary-amd64/Release
  8b5f844a49d11db47e9edec8fa6971f103ebd532b43f3f86d03e3327380b4313 514 main/binary-arm64/Packages
  5ed554ed908fb6208465244e26a7070ca34b87e034b4af8e47bb4e515906af31 381 main/binary-arm64/Packages.gz
  75d001524c6ebca26410a58880172dc89e1ee8cac5ee470847c47752e09c6f72 111 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEI+p6qmGcKK8rAHx/STPVis8IeNsFAmq3/wwACgkQSTPVis8I
-eNsBVxAAordJcy55Xk4BU7nY4anzkl0c124ALxY0uAhqjjJjmnC45MmDJLkXKd2d
-tyqqJjueDKsOiIBHltkypn9Qo7QJs8+vDLwvUQkAciXLIcKopjEBW0Yi1MORGvrz
-FXXGOb/bTN3/fQJHEjzul3PSrT08wkED7PNQH4v37y3wMp4vByPqbOkTH5w/etNQ
-0vCgf8pQGfqicx9z4mQpWBvMSCGE8NfHYPDM4Mxl69ht72O5E3FyOTfcJZyE4+iK
-q4tNjHptfoVBK8hZxQM+h+uUtQeO8ZXPrZVxUc4z/bdr6x4IsaB359ENu0TVsnPw
-4xppPNgsJaQSqelphI1mLJ5/W9BM3kcXcTsXmvZb8b783gRNjS1xr32jbzZ1FTkc
-V7bsDWTN6JYtsLwdLzgypi0BzJzxPK4hirsaVMLa+0/CsEEp2Y4rmyP8sOK5X0DW
-7OprB5n1g2XiM9az/nQmtB1byhcF1XJiANT0J+T/M2q9pcfJjFA8UY/+4QY/L8id
-b4ivldF5ak+TwlySL5hD8SEAPGyH+UL+2/4B3MfV4xfvUe3cEqFljrOYlMAnwCOh
-eOleaIz4VLggO+8glPVjaJ9Cq21o4OZtn9o11CiYiaZiDnJKdp3/ysrjV6GufpY1
-c024NvTwRTEarZPrfLilJm9MViTFJp24EP+FMc5/ulqDdiQN55E=
-=WwD+
+iQIzBAEBCgAdFiEEI+p6qmGcKK8rAHx/STPVis8IeNsFAmr5HbYACgkQSTPVis8I
+eNtNaRAAgu4vs2uktC68gbN3//6K44LWj2i/GcMZBUfEVrToqWlPKzR2RVpdESG6
+hrp0jeYVf94PpPiR8e7t9r9iecs/U1yS/um1pIDG4pC2lVuM2dhF3XHdhAYduDPk
+cOdkoa8kikQJZz5rwuB1Qf2H30cMuTsYsvmtd+4FYPI85UiT3a/Ai7UUUcKfpcTB
+3hNf5S2BjM3xve+0FytFKR6sJ5l5J8ruw0Ur2f9ERkhSM8hKHi+Wn+3W0KF+Ny81
+BgFcGXJeIPfHhijNaYzkldE2P50H6k304Kd8ZQIkMxyzL12L0cpPGkcKoFmGqRNB
+3eHhkl9YkzYvxWaUlA8w/3JiBRg9/a6P8Z1HNso+zskJ3Ve5YprLh7xImSF87MgJ
+xGEIQ/XtMFk7Y93p7ATAS7sHk0lFSlygQkg271FUJGsXukfMpgm3ITooH07r/nqI
+RB5Yl7KSnu9ewwaatc0xNFXNuw5P0wfJDA10MluBbBmBETh9sES1tuvGY1BlYuKC
+s6XpJPuYxuD17I/eAa6FYvM/G+9ISQt4kVHXnxicgiwlvp7fTHpGcYwMxKz1mSaj
+ws+KL4wn7XTrKKmhCdIK/MC9fQtRkJ7OUFjG4p8JlRi3ho7yDFG0capk6Ts2W7ZD
+eEOk7rihgLTqn/anT9vGSFVhz6OukKxsR5TRxLyUsU2q/18eHvg=
+=u6H3
 -----END PGP SIGNATURE-----
