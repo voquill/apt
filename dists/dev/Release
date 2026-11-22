@@ -1,27 +1,27 @@
 Origin: Voquill
 Label: Voquill
 Codename: dev
-Date: Sat, 21 Nov 2026 14:45:45 UTC
+Date: Sun, 22 Nov 2026 00:04:38 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Voquill - development releases
 MD5Sum:
- bbbdd9bc639878ad6e2eeb4bdc44f875 1130 main/binary-amd64/Packages
- 997999d0e629aa855457b67f8b580fbb 641 main/binary-amd64/Packages.gz
+ 83667213808301adcb22623c77845900 1130 main/binary-amd64/Packages
+ 0204b7aa57f9ddb7c2be20e7f45c0d92 646 main/binary-amd64/Packages.gz
  76b62085422d682fed864dcf73f93540 111 main/binary-amd64/Release
  83030d4f9f9fcb4ce5bf84a9e72a2188 514 main/binary-arm64/Packages
  9767341f893234dd383ec341428e9cc3 381 main/binary-arm64/Packages.gz
  346d387e61c77e4bf1504793a006e407 111 main/binary-arm64/Release
 SHA1:
- b22534c34d0029fee1b5b122a47f935e8653b423 1130 main/binary-amd64/Packages
- 3ea0111c224184d1536bc698da91a9aaf35c7057 641 main/binary-amd64/Packages.gz
+ 852ebb4991e22a852019343bb2dbc4477af18145 1130 main/binary-amd64/Packages
+ ca8c209fcf1191856e10b9c0d9e528bdeb98cc53 646 main/binary-amd64/Packages.gz
  bd8d781ff61d47b291f7700eb008f48f26565ded 111 main/binary-amd64/Release
  6e15d6cd55b20f225d59784b177e653dd716ea0d 514 main/binary-arm64/Packages
  3460852e97c9e2a1fcaf3ba75e50ca3dcb5e3526 381 main/binary-arm64/Packages.gz
  6396caacd9fdc4bc9502d59254b332775d79acac 111 main/binary-arm64/Release
 SHA256:
- 2f3ec46eebeb6d729d40382e422ba951e011e2603bb18f234ab40ae677ec905f 1130 main/binary-amd64/Packages
- 5d2d98f9d8ca63022cfdbcbe24bc8c1d19df1a615ca7410d9f162ef1d141bedb 641 main/binary-amd64/Packages.gz
+ 0aba55e90574999f77a5b0069c000ce139b964058f52e52b14f16c3c0dd12365 1130 main/binary-amd64/Packages
+ 1408eaa520e97fe6ccf6c589ebad3e1da6ab209b4223fda9ed5352602b67c4f2 646 main/binary-amd64/Packages.gz
  e4cf8fe8f06e9dbffe7597fd89c3fc3e23b05765bd2c497250719a958f960092 111 main/binary-amd64/Release
  8b5f844a49d11db47e9edec8fa6971f103ebd532b43f3f86d03e3327380b4313 514 main/binary-arm64/Packages
  5ed554ed908fb6208465244e26a7070ca34b87e034b4af8e47bb4e515906af31 381 main/binary-arm64/Packages.gz
